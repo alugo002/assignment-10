@@ -41,7 +41,7 @@ a:hover {
 }
 
 @media screen and (max-width: 950px) {
-   {
+  body {
     grid-template-columns: repeat(1, auto);
   }
 }
